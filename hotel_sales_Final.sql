@@ -2,8 +2,8 @@
 DROP DATABASE IF EXISTS HotelSalesDB;
 CREATE DATABASE HotelSalesDB;
 USE HotelSalesDB;
-
--- Customers Table
+ 
+-- Customers Table 
 CREATE TABLE Customers (
     CustomerID INT PRIMARY KEY AUTO_INCREMENT,
     FirstName VARCHAR(50),
@@ -13,7 +13,7 @@ CREATE TABLE Customers (
     City VARCHAR(50)
 );
 
--- Rooms Table
+-- Rooms Table 
 CREATE TABLE Rooms (
     RoomID INT PRIMARY KEY AUTO_INCREMENT,
     RoomType VARCHAR(50),

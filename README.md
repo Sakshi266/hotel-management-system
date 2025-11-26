@@ -20,26 +20,59 @@ A Hotel Management System built using SQL to efficiently manage customers, rooms
 
 The project includes tables such as:
 
-customers
+- customers
 
-rooms
+- rooms
 
-staff
+- staff
 
-bookings
+- bookings
 
-payments
+- payments
 
-room_types
+- room_types
 
 You can use this schema to practice:
 
-Normalization
+- Normalization
 
-Primary/Foreign key constraints
+- Primary/Foreign key constraints
 
-Joins
+- Joins
 
-Aggregations
+- Aggregations
 
-Stored procedures
+- Stored procedures
+### 🛠️ Technologies Used
+
+MySQL / PostgreSQL / SQL Server (choose based on your implementation)
+
+SQL concepts:
+✔ DDL
+✔ DML
+✔ Joins
+✔ Constraints
+✔ Views
+✔ Stored Procedures
+### ▶️ How to Use
+
+Download or clone this repository
+
+Import the hotel_db.sql file into your SQL environment
+
+Run the queries from queries.sql for practice
+
+Start modifying or extending the system
+### 📚 Learning Outcomes
+
+By working on this project, you will learn:
+
+How to design a normalized hotel management database
+
+How to implement relationships between tables
+
+How to write real-world SQL queries
+
+How to manage CRUD operations
+
+Building and understanding ER diagrams

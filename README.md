@@ -15,4 +15,31 @@ A Hotel Management System built using SQL to efficiently manage customers, rooms
 
 🗂️ Sample Data Included – Pre-loaded data for practice
 
-🧪 SQL Queries – Practice CRUD, JOINS, Views, Functions, and more
+🧪 SQL Queries – Practice CRUD, JOINS, Views, Functions and more
+### 🗄️ Database Schema
+
+The project includes tables such as:
+
+customers
+
+rooms
+
+staff
+
+bookings
+
+payments
+
+room_types
+
+You can use this schema to practice:
+
+Normalization
+
+Primary/Foreign key constraints
+
+Joins
+
+Aggregations
+
+Stored procedures
